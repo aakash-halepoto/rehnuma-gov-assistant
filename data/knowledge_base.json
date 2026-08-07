@@ -1,0 +1,26 @@
+[
+  {
+    "topic": "CNIC renewal",
+    "department": "NADRA",
+    "keywords": ["cnic", "renew", "identity card", "nadra", "shanakhti"],
+    "info": "CNIC renewal is handled by NADRA. Citizens can apply online through the NADRA Pak-Identity portal (id.nadra.gov.pk) or visit a NADRA Registration Center in person. Required: existing CNIC and biometric verification. Fees and processing times vary by category (normal, urgent, executive) — check the official NADRA website for current rates."
+  },
+  {
+    "topic": "Passport application",
+    "department": "DGIP",
+    "keywords": ["passport", "travel document", "dgip", "immigration"],
+    "info": "Pakistani passports are issued by the Directorate General of Immigration & Passports (DGIP). Apply online at onlinemrp.dgip.gov.pk or visit a passport office. Required: valid CNIC and passport fee. Processing categories include normal and urgent. Verify current fees and requirements on the official DGIP website."
+  },
+  {
+    "topic": "Income tax filing",
+    "department": "FBR",
+    "keywords": ["tax", "income tax", "fbr", "filer", "return", "iris"],
+    "info": "Income tax returns in Pakistan are filed through the FBR IRIS portal (iris.fbr.gov.pk). Individuals must first register for an NTN (National Tax Number). Becoming a 'filer' on the Active Taxpayer List offers benefits like lower withholding tax. Filing deadlines are announced annually by FBR — check the official FBR website for current deadlines and procedures."
+  },
+  {
+    "topic": "Electricity bill",
+    "department": "Utility",
+    "keywords": ["electricity", "bill", "wapda", "k-electric", "power", "duplicate bill"],
+    "info": "Electricity bills can be viewed and paid online. Depending on your region, the provider may be K-Electric (Karachi) or a DISCO under WAPDA (e.g., HESCO, LESCO, MEPCO). Duplicate bills can be downloaded from the provider's website using your reference number. Bills can be paid via bank, mobile apps, or authorized outlets."
+  }
+]
